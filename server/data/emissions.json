@@ -1,0 +1,16 @@
+[
+  { "country": "India", "sector": "Energy",     "year": 2020, "emissions": 120.5 },
+  { "country": "India", "sector": "Transport",  "year": 2020, "emissions": 80.2  },
+  { "country": "India", "sector": "Industry",   "year": 2020, "emissions": 65.7  },
+  { "country": "India", "sector": "Agriculture","year": 2020, "emissions": 40.3  },
+
+  { "country": "India", "sector": "Energy",     "year": 2021, "emissions": 130.0 },
+  { "country": "India", "sector": "Transport",  "year": 2021, "emissions": 82.1  },
+
+  { "country": "USA",   "sector": "Energy",     "year": 2020, "emissions": 300.0 },
+  { "country": "USA",   "sector": "Transport",  "year": 2020, "emissions": 150.0 },
+  { "country": "USA",   "sector": "Industry",   "year": 2020, "emissions": 110.0 },
+
+  { "country": "USA",   "sector": "Energy",     "year": 2021, "emissions": 310.0 },
+  { "country": "USA",   "sector": "Transport",  "year": 2021, "emissions": 155.0 }
+]
